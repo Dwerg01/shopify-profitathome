@@ -1,0 +1,76 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "16643510642c648200": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "1664351076f179fd8f": {
+      "type": "collection-list",
+      "blocks": {
+        "1664351076b12f1f0a-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bare-essentials"
+          }
+        },
+        "1664351076b12f1f0a-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "electronic-starter-pack"
+          }
+        },
+        "1664351076b12f1f0a-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "october-entrepreneur-kick-starter"
+          }
+        },
+        "eb207858-f6f6-44f0-ae32-296aac0bf923": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664351076b12f1f0a-0",
+        "1664351076b12f1f0a-1",
+        "1664351076b12f1f0a-2",
+        "eb207858-f6f6-44f0-ae32-296aac0bf923"
+      ],
+      "settings": {
+        "title": "Our range of Starter Products",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16643510642c648200",
+    "1664351076f179fd8f"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "16643510642c648200": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "3960d18f-0ee9-4634-af48-96b335935106": {
+      "type": "collection-list",
+      "blocks": {
+        "template--14578505449607__3960d18f-0ee9-4634-af48-96b335935106-166542801970f61719-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-desks"
+          }
+        },
+        "6543669a-ba9d-49e1-a307-da6aa7dc6eb7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-earphones"
+          }
+        },
+        "template--14578505449607__3960d18f-0ee9-4634-af48-96b335935106-166542801970f61719-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-chairs"
+          }
+        },
+        "43b36b51-3100-48dd-8329-49fb7944cb14": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-hard-drives-disks"
+          }
+        },
+        "template--14578505449607__3960d18f-0ee9-4634-af48-96b335935106-166542801970f61719-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-desktops"
+          }
+        },
+        "cf940fff-3a13-4609-824a-98ed97762a69": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "smartphones"
+          }
+        },
+        "770d8ccb-e93c-4b8a-ab45-74365acfb740": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-power-banks"
+          }
+        },
+        "4472fae9-72a1-4cf9-ac58-62aeca95bc87": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-printers"
+          }
+        },
+        "76e1c20b-f970-4295-9005-c4885c08d487": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "monitors"
+          }
+        },
+        "536405c3-8237-4ea4-b711-52ec1f25ff02": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-claptops"
+          }
+        },
+        "a540857b-ba6e-42bd-bfbf-ba7f0709b037": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-mices"
+          }
+        }
+      },
+      "block_order": [
+        "template--14578505449607__3960d18f-0ee9-4634-af48-96b335935106-166542801970f61719-0",
+        "6543669a-ba9d-49e1-a307-da6aa7dc6eb7",
+        "template--14578505449607__3960d18f-0ee9-4634-af48-96b335935106-166542801970f61719-1",
+        "43b36b51-3100-48dd-8329-49fb7944cb14",
+        "template--14578505449607__3960d18f-0ee9-4634-af48-96b335935106-166542801970f61719-2",
+        "cf940fff-3a13-4609-824a-98ed97762a69",
+        "770d8ccb-e93c-4b8a-ab45-74365acfb740",
+        "4472fae9-72a1-4cf9-ac58-62aeca95bc87",
+        "76e1c20b-f970-4295-9005-c4885c08d487",
+        "536405c3-8237-4ea4-b711-52ec1f25ff02",
+        "a540857b-ba6e-42bd-bfbf-ba7f0709b037"
+      ],
+      "settings": {
+        "title": "Complete your gear",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16643510642c648200",
+    "3960d18f-0ee9-4634-af48-96b335935106"
+  ]
+}

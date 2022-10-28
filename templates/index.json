@@ -1,0 +1,268 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "EQUIP YOURSELF",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "You have the spirit of an entrepreneur. We give you the tools to realize your work from home dreams",
+            "text_style": "subtitle"
+          }
+        },
+        "5533cec7-a0cd-4841-aeb3-7b3db37f8e50": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Find your set up ➡️",
+            "button_link_1": "shopify:\/\/pages\/starter-products",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "5533cec7-a0cd-4841-aeb3-7b3db37f8e50"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/92dpi-4-1.jpg",
+        "image_2": "shopify:\/\/shop_images\/722_259_001_Titan_Worksolution_MW_WT.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Success starts with the team that understands your needs as ENTREPRENEUR at home to be fully equipped for success<\/strong><\/p><p><\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Finding the right tools to help you perform at your best can be difficult and time consuming. <br\/>P@H takes this frustration away by selecting tools most suited to your profession. <br\/>From desks, chairs, laptops, cellphones, printers and more, we have your equipment needs covered.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/microscope_2_d565ffe7-fd59-460d-b283-1788b1a88ecf.png",
+            "title": "",
+            "text": "<p>You can rely on <strong>carefully selected  equipment <\/strong>to suit your profession. From photographers, to accountants and everyone inbetween<strong>. <\/strong>We do the  research, <strong>to support you and your team<\/strong>.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/chair_icon_2_97b687ee-a233-48e9-a3e4-f83a22393e92.png",
+            "title": "",
+            "text": "<p>P@H has teamed up with desk manufacturers backed by 30 years of experience to ensure <strong>you get the best <\/strong>quality. The factory can deliver within 14 days. 90% local<\/p>",
+            "link_label": "Learn More",
+            "link": "shopify:\/\/pages\/about-us"
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/support_icon-removebg-preview_2_59685f9c-fad4-4d87-98c9-43398c241198.png",
+            "title": "",
+            "text": "<p>We would love to hear from you so we can better <strong>cater for your particular needs<\/strong>. We will assist with the best possible solution for your ideal setup, so you can <strong>focus on your business<\/strong>.<\/p>",
+            "link_label": "Get in Touch",
+            "link": "shopify:\/\/pages\/contact"
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c823a13d-4937-4220-b899-56e19936cee7": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14578505351303__c823a13d-4937-4220-b899-56e19936cee7-1665071966e95e0cf5-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Buy now and pay over 6 months",
+            "heading_size": "h1"
+          }
+        },
+        "template--14578505351303__c823a13d-4937-4220-b899-56e19936cee7-1665071966e95e0cf5-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "With FLOAT we provide a flexible payment method",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--14578505351303__c823a13d-4937-4220-b899-56e19936cee7-1665071966e95e0cf5-0",
+        "template--14578505351303__c823a13d-4937-4220-b899-56e19936cee7-1665071966e95e0cf5-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Float-Banner-600-x-150_2.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured Products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "collage": {
+      "type": "collage",
+      "blocks": {
+        "e681a5e7-b758-4450-8c4e-a3b18187ca5a": {
+          "type": "product",
+          "settings": {
+            "product": "lenovo-ideapad-c940-series-notebook",
+            "second_image": true
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "all-claptops"
+          }
+        },
+        "72d04a65-ba48-4624-adb6-8875e8074bd6": {
+          "type": "product",
+          "settings": {
+            "product": "tn-manager-floating-top-desk",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "e681a5e7-b758-4450-8c4e-a3b18187ca5a",
+        "collection-1",
+        "72d04a65-ba48-4624-adb6-8875e8074bd6"
+      ],
+      "settings": {
+        "heading": "You can Profit at Home while we provide you with everything you need for your Home Office",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text",
+    "multicolumn",
+    "c823a13d-4937-4220-b899-56e19936cee7",
+    "featured_collection",
+    "collage",
+    "video"
+  ]
+}
