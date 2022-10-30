@@ -87,7 +87,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/microscope_2_d565ffe7-fd59-460d-b283-1788b1a88ecf.png",
             "title": "",
-            "text": "<p>You can rely on <strong>carefully selected  equipment <\/strong>to suit your profession. From photographers, to accountants and everyone inbetween<strong>. <\/strong>We do the  research, <strong>to support you and your team<\/strong>.<\/p>",
+            "text": "<p>We offer <strong>carefully selected equipment <\/strong>and find the best solution your profession. From photographers, to accountants and everyone inbetween<strong>. <\/strong>We do the  research, <strong>to support you and your team<\/strong>.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -97,7 +97,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/chair_icon_2_97b687ee-a233-48e9-a3e4-f83a22393e92.png",
             "title": "",
-            "text": "<p>P@H has teamed up with desk manufacturers backed by 30 years of experience to ensure <strong>you get the best <\/strong>quality. The factory can deliver within 14 days. 90% local<\/p>",
+            "text": "<p>P@H has teamed up with desk manufacturers backed by <strong>30 years<\/strong> of experience to <strong>ensure an ideal solution <\/strong>for any entrepreneur. The factory can deliver within 14 days. 90% local<\/p>",
             "link_label": "Learn More",
             "link": "shopify:\/\/pages\/about-us"
           }
@@ -214,7 +214,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "all-claptops"
+            "collection": "laptops"
           }
         },
         "72d04a65-ba48-4624-adb6-8875e8074bd6": {

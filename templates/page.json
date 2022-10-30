@@ -7,16 +7,36 @@
         "padding_bottom": 16
       }
     },
-    "16643510642c648200": {
-      "type": "slideshow",
+    "ad769639-124f-42fa-aa71-f05d7f752ab6": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14685081436295__ad769639-124f-42fa-aa71-f05d7f752ab6-166696171042101e4d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "visit uAfrica",
+            "button_link_1": "https:\/\/uafrica.com",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14685081436295__ad769639-124f-42fa-aa71-f05d7f752ab6-166696171042101e4d-2"
+      ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "image": "shopify:\/\/shop_images\/uAfricaLogo_reduced.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "3960d18f-0ee9-4634-af48-96b335935106": {
@@ -31,7 +51,7 @@
         "6543669a-ba9d-49e1-a307-da6aa7dc6eb7": {
           "type": "featured_collection",
           "settings": {
-            "collection": "all-earphones"
+            "collection": "earphones"
           }
         },
         "template--14578505449607__3960d18f-0ee9-4634-af48-96b335935106-166542801970f61719-1": {
@@ -43,7 +63,7 @@
         "43b36b51-3100-48dd-8329-49fb7944cb14": {
           "type": "featured_collection",
           "settings": {
-            "collection": "all-hard-drives-disks"
+            "collection": "hard-drives"
           }
         },
         "template--14578505449607__3960d18f-0ee9-4634-af48-96b335935106-166542801970f61719-2": {
@@ -79,7 +99,7 @@
         "536405c3-8237-4ea4-b711-52ec1f25ff02": {
           "type": "featured_collection",
           "settings": {
-            "collection": "all-claptops"
+            "collection": "laptops"
           }
         },
         "a540857b-ba6e-42bd-bfbf-ba7f0709b037": {
@@ -111,14 +131,14 @@
         "show_view_all": true,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     }
   },
   "order": [
     "main",
-    "16643510642c648200",
+    "ad769639-124f-42fa-aa71-f05d7f752ab6",
     "3960d18f-0ee9-4634-af48-96b335935106"
   ]
 }
